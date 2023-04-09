@@ -19,5 +19,5 @@ Iron prices
 Platinum prices
 Palladium prices
 Additionally, the dataset considers global events that may impact gold prices, which were categorized into groups and collected from three distinct sources: Al-Jazeera website spanning from 2022 to 2019, Investing website spanning from 2018 to 2016, and Yahoo Finance website spanning from 2007 to 2001. The events data were then divided into multiple groups, Economic data, politics, logistics, oil, OPEC, the dollar currency, the sterling pound currency, the Russian ruble currency, the yen currency, the euro currency, the US stocks, the global stocks, inflation, job reports, unemployment rates, the CPI, interest rates, and bonds. The events were encoded using a numeric value, where 0 represented no events, 1 represented low events, 2 represented high events, 3 represented stable events, 4 represented unstable events, and 5 represented events that were observed during the day but had no effect on the dataset.
-Acknowledgements
-The majority of data is collected from Yahoo finance website.
+
+Acknowledgements: The majority of data is collected from Yahoo finance website.
