@@ -6,19 +6,33 @@ This benchmark dataset consisting of 8030 rows and 36 variables sourced from mul
 Key variables & Features include:
 
 •	Previous gold prices
+
 •	Future gold prices with predictions for one day, one week, and one month
+
 •	Oil prices
+
 •	Standard & Poor's 500 Index (S&P 500)
+
 •	Dow Jones Industrial (DJI)
+
 •	US dollar index
+
 •	US treasury
+
 •	Inflation rate
+
 •	Consumer price index (CPI)
-•	federal funds rate
+
+•	Federal funds rate
+
 •	Silver prices
+
 •	Copper prices
+
 •	Iron prices
+
 •	Platinum prices
+
 •	Palladium prices
 
 Additionally, the dataset considers global events that may impact gold prices, which were categorized into groups and collected from three distinct sources: Al-Jazeera website spanning from 2022 to 2019, Investing website spanning from 2018 to 2016, and Yahoo Finance website spanning from 2007 to 2001. 
