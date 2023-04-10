@@ -37,7 +37,7 @@ Key variables & Features include:
 
 Additionally, the dataset considers global events that may impact gold prices, which were categorized into groups and collected from three distinct sources: Al-Jazeera website spanning from 2022 to 2019, Investing website spanning from 2018 to 2016, and Yahoo Finance website spanning from 2007 to 2001. 
 
-The events data were then divided into multiple groups:
+These events data were then divided into multiple groups:
 
 •	Economic data
 
@@ -75,6 +75,6 @@ The events data were then divided into multiple groups:
 
 •	Bonds
 
-The events were encoded using a numeric value, where 0 represented no events, 1 represented low events, 2 represented high events, 3 represented stable events, 4 represented unstable events, and 5 represented events that were observed during the day but had no effect on the dataset.
+These events were encoded using a numeric value, where 0 represented no events, 1 represented low events, 2 represented high events, 3 represented stable events, 4 represented unstable events, and 5 represented events that were observed during the day but had no effect on the dataset.
 
 Acknowledgements: The majority of data is collected from Yahoo finance website.
