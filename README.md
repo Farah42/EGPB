@@ -39,7 +39,41 @@ Additionally, the dataset considers global events that may impact gold prices, w
 
 The events data were then divided into multiple groups:
 
-•	Economic data, politics, logistics, oil, OPEC, the dollar currency, the sterling pound currency, the Russian ruble currency, the yen currency, the euro currency, the US stocks, the global stocks, inflation, job reports, unemployment rates, the CPI, interest rates, and bonds.
+•	Economic data
+
+•	Politics
+
+•	logistics
+
+•	Oil
+
+•	OPEC
+
+•	Dollar currency
+
+•	Sterling pound currency
+
+•	Russian ruble currency 
+
+•	Yen currency
+
+•	Euro currency
+
+•	US stocks
+
+•	Global stocks
+
+•	Inflation
+
+•	Job reports
+
+•	Unemployment rates
+
+•	CPI rate
+
+•	Interest rates
+
+•	Bonds
 
 The events were encoded using a numeric value, where 0 represented no events, 1 represented low events, 2 represented high events, 3 represented stable events, 4 represented unstable events, and 5 represented events that were observed during the day but had no effect on the dataset.
 
